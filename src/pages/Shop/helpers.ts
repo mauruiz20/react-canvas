@@ -2,7 +2,7 @@ import car from '../../assets/car.png'
 import food from '../../assets/food.png'
 import school from '../../assets/school.png'
 
-interface ImageInterface {
+export interface ImageInterface {
   src: string
   alt: string
 }
